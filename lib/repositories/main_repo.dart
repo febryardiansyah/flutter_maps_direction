@@ -13,7 +13,7 @@ const double CAMERA_TILT = 0;
 const double CAMERA_BEARING = 0;
 const LatLng SOURCE_LOCATION = LatLng(42.747932, -71.167889);
 const LatLng DEST_LOCATION = LatLng(-7.410045, 109.2520442);
-const String GOOGLE_API_KEY = 'AIzaSyDEe9EjuF21rOBnxAcsTi5ymhQX8jMcsyA';
+const String GOOGLE_API_KEY = 'YOUR_API_KEY';
 
 class MainRepo {
 
